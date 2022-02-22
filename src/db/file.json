@@ -1,0 +1,28 @@
+{
+    "studenti": [
+        {
+            "cognome": "rossi",
+            "voti": [
+                {
+                    "voto": 28,
+                    "materia": "matematica"
+                },
+                {
+                    "voto": 25,
+                    "materia": "Italiano"
+                }
+            ],
+            "nome": "marco"
+        },
+        {
+            "cognome": "Rossi",
+            "voti": [
+                {
+                    "voto": 22,
+                    "materia": "Inglese"
+                }
+            ],
+            "nome": "Mario"
+        }
+    ]
+}
