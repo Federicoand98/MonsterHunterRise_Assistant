@@ -1,5 +1,5 @@
-from copy import deepcopy
 import json
+import numpy as np
 
 class Monsters(object):
     def __init__(self):
@@ -49,22 +49,39 @@ if __name__ == "__main__":
     voti_arr = []
     lista_mostri = Monsters()
 
-    flag = raw_input('Nuovo mostro? [s/n]')
+    file = open('f.txt', 'r')
+    lines = file.readlines()
+
+    count = 0
+    for line in lines:
+        if 'M' in line:
+            
+
+    """
+    m = input('In: ')
+    m_array = m.split()
+    np_m = np.asarray(m_array)
+    matrix = np_m.reshape(7, 11)
+    print(matrix)
+
+    flag = input('Nuovo mostro? [s/n]')
 
     while flag == 's':
-        name = raw_input('Nome Mostro: ')
-        tipo = raw_input('Tipo Mostro: ')
+        name = input('Nome Mostro: ')
+        tipo = input('Tipo Mostro: ')
+
+        p = input('Parts: ')
+        p_splitted = p.split()
+        p_np_m = np.array(p_splitted)
+        matrix = p_np_m.reshape(7, 11)
 
         for i in range(7):
-            p = raw_input('Part: ')
-            p_splitted = p.split()
-
-            if len(p_splitted) == 11:
-                part = Part(p_splitted[0], p_splitted[1], p_splitted[2], p_splitted[3], p_splitted[4], p_splitted[5], p_splitted[6], p_splitted[7], p_splitted[8], p_splitted[9], p_splitted[10])
-                parts_array.append(part)
+            row = matrix[i, :]
+            part = Part(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
+            parts_array.append(part)
 
         for i in range(10):
-            a = raw_input('Ailment: ')
+            a = input('Ailment: ')
             a_splitted = a.split()
 
             if len(a_splitted) == 5:
@@ -73,7 +90,9 @@ if __name__ == "__main__":
 
         monster = Monster(name, tipo, parts_array, ailments_array)
         lista_mostri.monsters.append(monster)
-        flag = raw_input('Nuovo mostro? [s/n]')
+        flag = input('Nuovo mostro? [s/n]')
+    
 
-        with open("f1.json", "w") as file:
+        with open("f2.json", "w") as file:
             file.write(json.dumps(lista_mostri.__dict__, default=custom_encode))
+    """

@@ -1,0 +1,189 @@
+Rathian
+Flying Wyvern
+Head	0	70	75	65	0	15	15	20	30	100
+Neck	0	40	45	35	0	0	0	5	15	0
+Body	0	35	30	25	0	5	5	10	20	0
+Back	0	35	30	25	0	5	5	10	20	0
+Wing	0	45	45	35	0	10	10	15	25	0
+Leg	0	40	40	35	0	0	0	5	15	0
+Tail	0	45	40	35	0	5	5	10	20	0
+Poison	
+250 +150 →700
+5 / 10 sec
+150
+15 sec
+Paralysis	
+180 +130 →570
+5 / 10 sec
+0
+10 sec
+Sleep	
+150 +100 →550
+5 / 10 sec
+0
+40 sec
+Stun	
+110 +120 →630
+5 / 10 sec
+0
+10 sec
+Blast	
+120 +60 →720
+5 / 10 sec
+0
+0 sec
+Exhaust	
+225 +75 →900
+5 / 10 sec
+0
+0 sec
+Fireblight	
+180 +130 →570
+5 / 10 sec
+300
+20 sec
+Waterblight	
+180 +130 →570
+5 / 10 sec
+0
+30 sec
+Iceblight	
+180 +130 →570
+5 / 10 sec
+0
+30 sec
+Thunderblight	
+180 +130 →570
+5 / 10 sec
+0
+40 sec
+
+M
+Apex Rathian
+Flying Wyvern
+PARTS
+Head	0	60	65	50	0	10	10	10	20	100
+Head	1	65	70	55	0	10	10	10	25	100
+Neck	0	40	40	30	5	10	10	10	20	0
+Body	0	24	24	20	0	5	5	15	15	0
+Back	0	20	20	15	5	10	10	20	25	0
+Back	1	38	38	45	5	10	10	20	25	0
+Wing	0	35	35	30	0	10	10	20	25	0
+Leg	0	24	24	20	0	5	5	10	15	0
+Tail	0	40	35	30	5	5	5	10	15	0
+Tail	1	45	40	35	5	5	5	10	20	0
+Tail	2	50	45	45	0	5	5	10	20	0
+AILMENTS
+Poison	
+250 +150 →700
+5 / 10 sec
+150
+15 sec
+Paralysis	
+300 +100 →700
+5 / 10 sec
+0
+7 sec
+Sleep	
+250 +150 →700
+5 / 10 sec
+0
+40 sec
+Stun	
+150 +120 →630
+5 / 10 sec
+0
+10 sec
+Blast	
+120 +60 →720
+5 / 10 sec
+0
+0 sec
+Exhaust	
+375 +150 →1575
+5 / 10 sec
+0
+0 sec
+Fireblight	
+180 +130 →570
+5 / 10 sec
+300
+20 sec
+Waterblight	
+180 +130 →570
+5 / 10 sec
+0
+30 sec
+Iceblight	
+180 +130 →570
+5 / 10 sec
+0
+30 sec
+Thunderblight	
+180 +130 →570
+5 / 10 sec
+0
+40 sec
+
+M
+Rathalos
+Flying Wyvern
+PARTS
+Head	0	65	70	60	0	15	15	20	30	100
+Neck	0	35	40	30	0	5	5	10	20	0
+Back	0	25	25	20	0	5	5	10	20	0
+Abdomen	0	25	25	20	0	5	5	10	20	0
+Tail	0	45	40	35	0	5	5	10	20	0
+Wing	0	50	45	40	0	10	10	15	25	0
+Leg	0	35	35	30	0	0	0	5	15	0
+AILMENTS
+Poison	
+250 +150 →700
+5 / 10 sec
+150
+15 sec
+Paralysis	
+180 +130 →570
+5 / 10 sec
+0
+10 sec
+Sleep	
+150 +100 →550
+5 / 10 sec
+0
+40 sec
+Stun	
+150 +120 →630
+5 / 10 sec
+0
+10 sec
+Blast	
+120 +60 →720
+5 / 10 sec
+0
+0 sec
+Exhaust	
+225 +75 →900
+5 / 10 sec
+0
+0 sec
+Fireblight	
+180 +130 →570
+5 / 10 sec
+300
+20 sec
+Waterblight	
+180 +130 →570
+5 / 10 sec
+0
+30 sec
+Iceblight	
+180 +130 →570
+5 / 10 sec
+0
+30 sec
+Thunderblight	
+180 +130 →570
+5 / 10 sec
+0
+40 sec
