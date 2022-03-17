@@ -1,0 +1,359 @@
+n Rathalos
+t Flying Wyvern
+p Head	0	65	70	60	0	15	15	20	30	100
+p Neck	0	35	40	30	0	5	5	10	20	0
+p Back	0	25	25	20	0	5	5	10	20	0
+p Abdomen	0	25	25	20	0	5	5	10	20	0
+p Tail	0	45	40	35	0	5	5	10	20	0
+p Wing	0	50	45	40	0	10	10	15	25	0
+p Leg	0	35	35	30	0	0	0	5	15	0
+a Poison	
+a 250 +150 →700
+a 5 / 10 sec
+a 150
+a 15 sec
+a Paralysis	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 10 sec
+a Sleep	
+a 150 +100 →550
+a 5 / 10 sec
+a 0
+a 40 sec
+a Stun	
+a 150 +120 →630
+a 5 / 10 sec
+a 0
+a 10 sec
+a Blast	
+a 120 +60 →720
+a 5 / 10 sec
+a 0
+a 0 sec
+a Exhaust	
+a 225 +75 →900
+a 5 / 10 sec
+a 0
+a 0 sec
+a Fireblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 300
+a 20 sec
+a Waterblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Iceblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Thunderblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 40 sec
+
+n Rathalos
+t Flying Wyvern
+p Head	0	65	70	60	0	15	15	20	30	100
+p Neck	0	35	40	30	0	5	5	10	20	0
+p Back	0	25	25	20	0	5	5	10	20	0
+p Abdomen	0	25	25	20	0	5	5	10	20	0
+p Tail	0	45	40	35	0	5	5	10	20	0
+p Wing	0	50	45	40	0	10	10	15	25	0
+p Leg	0	35	35	30	0	0	0	5	15	0
+a Poison	
+a 250 +150 →700
+a 5 / 10 sec
+a 150
+a 15 sec
+a Paralysis	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 10 sec
+a Sleep	
+a 150 +100 →550
+a 5 / 10 sec
+a 0
+a 40 sec
+a Stun	
+a 150 +120 →630
+a 5 / 10 sec
+a 0
+a 10 sec
+a Blast	
+a 120 +60 →720
+a 5 / 10 sec
+a 0
+a 0 sec
+a Exhaust	
+a 225 +75 →900
+a 5 / 10 sec
+a 0
+a 0 sec
+a Fireblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 300
+a 20 sec
+a Waterblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Iceblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Thunderblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 40 sec
+
+n Rathalos
+t Flying Wyvern
+p Head	0	65	70	60	0	15	15	20	30	100
+p Neck	0	35	40	30	0	5	5	10	20	0
+p Back	0	25	25	20	0	5	5	10	20	0
+p Abdomen	0	25	25	20	0	5	5	10	20	0
+p Tail	0	45	40	35	0	5	5	10	20	0
+p Wing	0	50	45	40	0	10	10	15	25	0
+p Leg	0	35	35	30	0	0	0	5	15	0
+a Poison	
+a 250 +150 →700
+a 5 / 10 sec
+a 150
+a 15 sec
+a Paralysis	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 10 sec
+a Sleep	
+a 150 +100 →550
+a 5 / 10 sec
+a 0
+a 40 sec
+a Stun	
+a 150 +120 →630
+a 5 / 10 sec
+a 0
+a 10 sec
+a Blast	
+a 120 +60 →720
+a 5 / 10 sec
+a 0
+a 0 sec
+a Exhaust	
+a 225 +75 →900
+a 5 / 10 sec
+a 0
+a 0 sec
+a Fireblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 300
+a 20 sec
+a Waterblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Iceblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Thunderblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 40 sec
+
+n Rathalos
+t Flying Wyvern
+p Head	0	65	70	60	0	15	15	20	30	100
+p Neck	0	35	40	30	0	5	5	10	20	0
+p Back	0	25	25	20	0	5	5	10	20	0
+p Abdomen	0	25	25	20	0	5	5	10	20	0
+p Tail	0	45	40	35	0	5	5	10	20	0
+p Wing	0	50	45	40	0	10	10	15	25	0
+p Leg	0	35	35	30	0	0	0	5	15	0
+a Poison	
+a 250 +150 →700
+a 5 / 10 sec
+a 150
+a 15 sec
+a Paralysis	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 10 sec
+a Sleep	
+a 150 +100 →550
+a 5 / 10 sec
+a 0
+a 40 sec
+a Stun	
+a 150 +120 →630
+a 5 / 10 sec
+a 0
+a 10 sec
+a Blast	
+a 120 +60 →720
+a 5 / 10 sec
+a 0
+a 0 sec
+a Exhaust	
+a 225 +75 →900
+a 5 / 10 sec
+a 0
+a 0 sec
+a Fireblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 300
+a 20 sec
+a Waterblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Iceblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Thunderblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 40 sec
+
+n Rathalos
+t Flying Wyvern
+p Head	0	65	70	60	0	15	15	20	30	100
+p Neck	0	35	40	30	0	5	5	10	20	0
+p Back	0	25	25	20	0	5	5	10	20	0
+p Abdomen	0	25	25	20	0	5	5	10	20	0
+p Tail	0	45	40	35	0	5	5	10	20	0
+p Wing	0	50	45	40	0	10	10	15	25	0
+p Leg	0	35	35	30	0	0	0	5	15	0
+a Poison	
+a 250 +150 →700
+a 5 / 10 sec
+a 150
+a 15 sec
+a Paralysis	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 10 sec
+a Sleep	
+a 150 +100 →550
+a 5 / 10 sec
+a 0
+a 40 sec
+a Stun	
+a 150 +120 →630
+a 5 / 10 sec
+a 0
+a 10 sec
+a Blast	
+a 120 +60 →720
+a 5 / 10 sec
+a 0
+a 0 sec
+a Exhaust	
+a 225 +75 →900
+a 5 / 10 sec
+a 0
+a 0 sec
+a Fireblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 300
+a 20 sec
+a Waterblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Iceblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Thunderblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 40 sec
+
+n Rathalos
+t Flying Wyvern
+p Head	0	65	70	60	0	15	15	20	30	100
+p Neck	0	35	40	30	0	5	5	10	20	0
+p Back	0	25	25	20	0	5	5	10	20	0
+p Abdomen	0	25	25	20	0	5	5	10	20	0
+p Tail	0	45	40	35	0	5	5	10	20	0
+p Wing	0	50	45	40	0	10	10	15	25	0
+p Leg	0	35	35	30	0	0	0	5	15	0
+a Poison	
+a 250 +150 →700
+a 5 / 10 sec
+a 150
+a 15 sec
+a Paralysis	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 10 sec
+a Sleep	
+a 150 +100 →550
+a 5 / 10 sec
+a 0
+a 40 sec
+a Stun	
+a 150 +120 →630
+a 5 / 10 sec
+a 0
+a 10 sec
+a Blast	
+a 120 +60 →720
+a 5 / 10 sec
+a 0
+a 0 sec
+a Exhaust	
+a 225 +75 →900
+a 5 / 10 sec
+a 0
+a 0 sec
+a Fireblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 300
+a 20 sec
+a Waterblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Iceblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 30 sec
+a Thunderblight	
+a 180 +130 →570
+a 5 / 10 sec
+a 0
+a 40 sec

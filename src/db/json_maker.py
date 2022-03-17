@@ -1,5 +1,8 @@
 import json
+import os
 import numpy as np
+import file_splitter
+import file_initializer
 
 class Monsters(object):
     def __init__(self):
@@ -49,12 +52,30 @@ if __name__ == "__main__":
     voti_arr = []
     lista_mostri = Monsters()
 
-    file = open('f.txt', 'r')
-    lines = file.readlines()
+    #file_splitter.split_file('f.txt', '\n', 'tmp/')
 
-    count = 0
-    for line in lines:
-        if 'M' in line:
+    path = '/Users/federyeeco/Sviluppo/Git/MonsterHunterRise_Assistant/src/db/tmp'
+    files = os.listdir(path)
+
+    for file in files:
+        with open(path + '/' + file, 'r') as f:
+            lines = f.readlines()
+
+        for l in lines:
+            _l = l.split()
+            flag = _l[0]
+            _l.pop(0)
+            line = _l
+
+            match flag:
+                case 'n':
+                    print('Name: ' + str(line))
+                case 't':
+                    print('Type: ' + str(line))
+                case 'p':
+                    print('Part: ' + str(line))
+                case 'a':
+                    print('Ailment: ' + str(line))
             
 
     """
