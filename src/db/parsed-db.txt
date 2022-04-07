@@ -2759,7 +2759,7 @@ a 5 / 10 sec
 a 0
 a 40 sec
 new
-a Kulu-Ya-Ku
+n Kulu-Ya-Ku
 t Bird Wyvern
 p Head	0	68	68	60	15	20	15	15	15	100
 p Foreleg	0	52	56	45	15	20	15	15	15	0
@@ -3009,3 +3009,4 @@ a 180 +130 →570
 a 5 / 10 sec
 a 0
 a 40 sec
+new

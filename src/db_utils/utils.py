@@ -11,7 +11,7 @@ MONSTER_NAMES = ['Rathian', 'Rathalos', 'Khezu', 'Basarios', 'Diablos', 'Rajang'
     'Chameleos', 'Teostra', 'Tigrex', 'Nargacuga', 'Barioth', 'Barroth', 'Ludroth', 'Baggi',
     'Zinogre', 'Wroggi', 'Arzuros', 'Lagombi', 'Volvidon', 'Mizutsune', 'Valstrax', 'Magnamalo',
     'Bishaten', 'Aknosom', 'Tetranadon', 'Somnacanth', 'Rakna-Kadaki', 'Almudron', 'Ibushi',
-                 'Goss', 'Izuchi', 'Narwa', 'Anjanath', 'Pukei-Pukei', 'Kuli-Ya-Ku', 'Jyuratodus', 'Tobi-Kadachi', 'Bazelgeuse']
+                 'Goss', 'Izuchi', 'Narwa', 'Anjanath', 'Pukei-Pukei', 'Kulu-Ya-Ku', 'Jyuratodus', 'Tobi-Kadachi', 'Bazelgeuse']
 
 MONSTER_TYPES = ['WYVERN', 'DRAGON', 'BEAST', 'LEVIATHAN', 'TEMNOCERANS']
 

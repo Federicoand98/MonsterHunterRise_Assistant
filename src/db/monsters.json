@@ -9133,7 +9133,7 @@
                 "duration": "30 sec"
             }]
         }, {
-            "name": "",
+            "name": "Kulu-Ya-Ku",
             "type": "Bird Wyvern",
             "parts_list": [{
                 "type": "Head",
@@ -9644,6 +9644,215 @@
                 "decay": "5 / 10 sec",
                 "damage": "0",
                 "duration": "40 sec"
+            }, {
+                "type": "Iceblight",
+                "buildup": "180 +130 \u2192570",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "30 sec"
+            }]
+        }, {
+            "name": "Bazelgeuse",
+            "type": "Flying Wyvern",
+            "parts_list": [{
+                "type": "Head",
+                "state": "0",
+                "hit_slash": "60",
+                "hit_strike": "65",
+                "hit_shell": "25",
+                "fire": "0",
+                "water": "5",
+                "ice": "10",
+                "thunder": "15",
+                "dragon": "10",
+                "stun": "100"
+            }, {
+                "type": "Head",
+                "state": "1",
+                "hit_slash": "80",
+                "hit_strike": "85",
+                "hit_shell": "35",
+                "fire": "0",
+                "water": "10",
+                "ice": "15",
+                "thunder": "20",
+                "dragon": "15",
+                "stun": "100"
+            }, {
+                "type": "Abdomen",
+                "state": "0",
+                "hit_slash": "45",
+                "hit_strike": "45",
+                "hit_shell": "25",
+                "fire": "0",
+                "water": "5",
+                "ice": "10",
+                "thunder": "10",
+                "dragon": "10",
+                "stun": "0"
+            }, {
+                "type": "Abdomen",
+                "state": "1",
+                "hit_slash": "45",
+                "hit_strike": "45",
+                "hit_shell": "25",
+                "fire": "0",
+                "water": "5",
+                "ice": "10",
+                "thunder": "10",
+                "dragon": "10",
+                "stun": "0"
+            }, {
+                "type": "Back",
+                "state": "0",
+                "hit_slash": "30",
+                "hit_strike": "30",
+                "hit_shell": "10",
+                "fire": "0",
+                "water": "0",
+                "ice": "5",
+                "thunder": "5",
+                "dragon": "5",
+                "stun": "0"
+            }, {
+                "type": "Back",
+                "state": "1",
+                "hit_slash": "30",
+                "hit_strike": "30",
+                "hit_shell": "10",
+                "fire": "0",
+                "water": "0",
+                "ice": "5",
+                "thunder": "5",
+                "dragon": "5",
+                "stun": "0"
+            }, {
+                "type": "Leg",
+                "state": "0",
+                "hit_slash": "30",
+                "hit_strike": "30",
+                "hit_shell": "20",
+                "fire": "0",
+                "water": "5",
+                "ice": "10",
+                "thunder": "15",
+                "dragon": "10",
+                "stun": "0"
+            }, {
+                "type": "Leg",
+                "state": "1",
+                "hit_slash": "36",
+                "hit_strike": "34",
+                "hit_shell": "25",
+                "fire": "0",
+                "water": "5",
+                "ice": "10",
+                "thunder": "15",
+                "dragon": "10",
+                "stun": "0"
+            }, {
+                "type": "Wing",
+                "state": "0",
+                "hit_slash": "25",
+                "hit_strike": "25",
+                "hit_shell": "45",
+                "fire": "0",
+                "water": "5",
+                "ice": "10",
+                "thunder": "10",
+                "dragon": "10",
+                "stun": "0"
+            }, {
+                "type": "Wing",
+                "state": "1",
+                "hit_slash": "25",
+                "hit_strike": "25",
+                "hit_shell": "15",
+                "fire": "0",
+                "water": "0",
+                "ice": "5",
+                "thunder": "5",
+                "dragon": "5",
+                "stun": "0"
+            }, {
+                "type": "Tail",
+                "state": "0",
+                "hit_slash": "60",
+                "hit_strike": "55",
+                "hit_shell": "35",
+                "fire": "0",
+                "water": "5",
+                "ice": "10",
+                "thunder": "15",
+                "dragon": "10",
+                "stun": "0"
+            }, {
+                "type": "Tail",
+                "state": "1",
+                "hit_slash": "75",
+                "hit_strike": "70",
+                "hit_shell": "45",
+                "fire": "0",
+                "water": "5",
+                "ice": "10",
+                "thunder": "15",
+                "dragon": "10",
+                "stun": "0"
+            }],
+            "ailments_list": [{
+                "type": "Thunderblight",
+                "buildup": "180 +130 \u2192570",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "30 sec"
+            }, {
+                "type": "Poison",
+                "buildup": "150 +100 \u2192550",
+                "decay": "5 / 10 sec",
+                "damage": "200",
+                "duration": "20 sec"
+            }, {
+                "type": "Paralysis",
+                "buildup": "180 +130 \u2192570",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "10 sec"
+            }, {
+                "type": "Sleep",
+                "buildup": "150 +100 \u2192550",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "40 sec"
+            }, {
+                "type": "Stun",
+                "buildup": "200 +150 \u2192800",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "10 sec"
+            }, {
+                "type": "Blast",
+                "buildup": "120 +90 \u21921920",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "0 sec"
+            }, {
+                "type": "Exhaust",
+                "buildup": "225 +75 \u2192900",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "0 sec"
+            }, {
+                "type": "Fireblight",
+                "buildup": "180 +130 \u2192570",
+                "decay": "5 / 10 sec",
+                "damage": "300",
+                "duration": "20 sec"
+            }, {
+                "type": "Waterblight",
+                "buildup": "180 +130 \u2192570",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "30 sec"
             }, {
                 "type": "Iceblight",
                 "buildup": "180 +130 \u2192570",
