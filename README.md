@@ -175,8 +175,6 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/Federicoan
 ## Contact
 
 Federico Andrucci - federico.andrucci@gmail.com <br>
-Alex Gianelli - djgiane@yahoo.it <br>
-Lorenzo Righi - righi.lo@gmail.com<br>
 
 Project Link: [https://github.com/Federicoand98/MonsterHunterRise_Assistant](https://github.com/Federicoand98/MonsterHunterRise_Assistant)
 
