@@ -1,5 +1,5 @@
 const { SlashCommandBuilder } = require('@discordjs/builders');
-const { Monster, Part, Ailment } = require('../model/classes')
+const { Monster, Part, Ailment } = require('../model/monster')
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -13,9 +13,10 @@ module.exports = {
     async execute(interaction, monsters) {
         const name = interaction.options.getString('name');
         var m;
+        var embed;
 
         monsters[0].map(monster => {
-            if(monster.name.toLowerCase() === name.toLowerCase()) {
+            if(monster.name.toLowerCase() === name.toLowerCase() || (monster.name.toLowerCase().includes(name.toLowerCase()) && !monster.name.toLowerCase().includes('apex'))) {
 
                 var parts = [];
                 var ailments = [];
@@ -30,11 +31,11 @@ module.exports = {
                     ailments.push(ailment);
                 });
 
-                m = new Monster(monster.name, monster.type, parts, ailments);
-                res = m.toString();
+                m = new Monster(monster.name, monster.type, monster.img, parts, ailments);
+                embed = m.getMessageEmbed();
             }
         })
 
-        await interaction.reply(res);
+        await interaction.reply({ embeds: [embed] });
     },
 };

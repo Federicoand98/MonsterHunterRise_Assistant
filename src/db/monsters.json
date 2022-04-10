@@ -3,6 +3,7 @@
         [{
             "name": "Rathian",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -142,10 +143,18 @@
                 "decay": "5 / 10 sec",
                 "damage": "0",
                 "duration": "30 sec"
-            }]
+            }, {
+                "type": "Thunderblight",
+                "buildup": "180 +130 \u2192570",
+                "decay": "5 / 10 sec",
+                "damage": "0",
+                "duration": "40 sec"
+            }
+        ]
         }, {
             "name": "Apex Rathian",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_07.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -343,6 +352,7 @@
         }, {
             "name": "Rathalos",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -492,6 +502,7 @@
         }, {
             "name": "Apex Rathalos",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_07.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -725,6 +736,7 @@
         }, {
             "name": "Khezu",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em003_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -898,6 +910,7 @@
         }, {
             "name": "Basarios",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em004_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -1287,6 +1300,7 @@
         }, {
             "name": "Diablos",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_00.png",
             "parts_list": [{
                 "type": "Horn",
                 "state": "0",
@@ -1460,6 +1474,7 @@
         }, {
             "name": "Apex Diablos",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_07.png",
             "parts_list": [{
                 "type": "Horn",
                 "state": "0",
@@ -1741,6 +1756,7 @@
         }, {
             "name": "Rajang",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -1890,6 +1906,7 @@
         }, {
             "name": "Kushala Daora",
             "type": "Elder Dragon",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -2051,6 +2068,7 @@
         }, {
             "name": "Chameleos",
             "type": "Elder Dragon",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -2284,6 +2302,7 @@
         }, {
             "name": "Teostra",
             "type": "Elder Dragon",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -2637,6 +2656,7 @@
         }, {
             "name": "Tigrex",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em032_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -2786,6 +2806,7 @@
         }, {
             "name": "Nargacuga",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -2983,6 +3004,7 @@
         }, {
             "name": "Barioth",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em042_00.png", 
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -3168,6 +3190,7 @@
         }, {
             "name": "Barroth",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em044_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -3353,6 +3376,7 @@
         }, {
             "name": "Royal Ludroth",
             "type": "Leviathan",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em047_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -3502,6 +3526,7 @@
         }, {
             "name": "Great Baggi",
             "type": "Bird Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em054_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -3591,6 +3616,7 @@
         }, {
             "name": "Zinogre",
             "type": "Fanged Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -3848,6 +3874,7 @@
         }, {
             "name": "Apex Zinogre",
             "type": "Fanged Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_07.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -4201,6 +4228,7 @@
         }, {
             "name": "Great Wroggi",
             "type": "Bird Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em059_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -4290,6 +4318,7 @@
         }, {
             "name": "Arzuros",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -4427,6 +4456,7 @@
         }, {
             "name": "Apex Arzuros",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_07.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -4600,6 +4630,7 @@
         }, {
             "name": "Lagombi",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em061_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -4725,6 +4756,7 @@
         }, {
             "name": "Volvidon",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em062_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -4874,6 +4906,7 @@
         }, {
             "name": "Mizutsune",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -5479,6 +5512,7 @@
         }, {
             "name": "Apex Mizutsune",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_07.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -6084,6 +6118,7 @@
         }, {
             "name": "Crimson Glow Valstrax",
             "type": "Elder Dragon",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_05.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -6469,7 +6504,7 @@
                 "dragon": "0",
                 "stun": "0"
             }, {
-                "type": "Chest (Windsac)",
+                "type": "Chest",
                 "state": "0",
                 "hit_slash": "80",
                 "hit_strike": "90",
@@ -6629,6 +6664,7 @@
         }, {
             "name": "Magnamalo",
             "type": "Fanged Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -6790,6 +6826,7 @@
         }, {
             "name": "Bishaten",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -6915,6 +6952,7 @@
         }, {
             "name": "Aknosom",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em091_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -7063,7 +7101,8 @@
             }]
         }, {
             "name": "Tetranadon",
-            "type": "",
+            "type": "Amphibian",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em092_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -7225,6 +7264,7 @@
         }, {
             "name": "Somnacanth",
             "type": "Leviathan",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -7386,6 +7426,7 @@
         }, {
             "name": "Rakna-Kadaki",
             "type": "Temnocerans",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -7547,6 +7588,7 @@
         }, {
             "name": "Almudron",
             "type": "Leviathan",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -7644,7 +7686,7 @@
                 "dragon": "15",
                 "stun": "0"
             }, {
-                "type": "Large Mudbulb",
+                "type": "Mudbulb",
                 "state": "0",
                 "hit_slash": "100",
                 "hit_strike": "100",
@@ -7720,6 +7762,7 @@
         }, {
             "name": "Wind Serpent Ibushi",
             "type": "Elder Dragon",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em096_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -7953,6 +7996,7 @@
         }, {
             "name": "Goss Harag",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em097_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -8162,6 +8206,7 @@
         }, {
             "name": "Great Izuchi",
             "type": "Bird Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em098_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -8287,6 +8332,7 @@
         }, {
             "name": "Thunder Serpent Narwa",
             "type": "Elder Dragon",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -8556,6 +8602,7 @@
         }, {
             "name": "Narwa the Allmother",
             "type": "Elder Dragon",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_05.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -8825,6 +8872,7 @@
         }, {
             "name": "Anjanath",
             "type": "Fanged Beast",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em100_00.png",
             "parts_list": [{
                 "type": "Snout",
                 "state": "0",
@@ -8986,6 +9034,7 @@
         }, {
             "name": "Pukei-Pukei",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em102_00.png",
             "parts_list": [{
                 "type": "Tongue",
                 "state": "0",
@@ -9135,6 +9184,7 @@
         }, {
             "name": "Kulu-Ya-Ku",
             "type": "Bird Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em107_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -9272,6 +9322,7 @@
         }, {
             "name": "Jyuratodus",
             "type": "Piscine Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em108_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -9505,6 +9556,7 @@
         }, {
             "name": "Tobi-Kadachi",
             "type": "Fanged Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em109_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
@@ -9654,6 +9706,7 @@
         }, {
             "name": "Bazelgeuse",
             "type": "Flying Wyvern",
+            "img": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_00.png",
             "parts_list": [{
                 "type": "Head",
                 "state": "0",
