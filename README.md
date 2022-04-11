@@ -179,7 +179,6 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See [`LICENSE`](https://github.com/Federicoand98/MonsterHunterRise_Assistant/blob/main/LICENSE) for more information.
 
 <!-- CONTACT -->
-
 ## Contact
 
 Federico Andrucci - federico.andrucci@gmail.com <br>
