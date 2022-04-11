@@ -27,7 +27,7 @@
   	</a>
   	<h1 align="center">MonsterHunter Rise Assistant</h1>
   	<p align="center">
-		Description here
+		Monster Hunter Rise Assistant is a Discord bot that provides you informations about Monster Hunter Rise monsters.
     	<br /> 
 		<a href="https://discord.com/api/oauth2/authorize?client_id=943181210987933786&permissions=534723950656&scope=bot%20applications.commands">
 			Click here to add this Bot to your guild
@@ -72,6 +72,25 @@
 
 ## About The Project
 
+MonsterHunterRise Assistant uses built-in Discord Slash Commands in order to respond to the users requests.
+
+All information about monster are stored in **monsters.json**, file createtd taking informations from <a href="https://mhrise.kiranico.com/data/monsters">Kiranico</a>.
+
+For example:
+
+<p align="center">
+	<img src="imgs/command.png" align="center" width="300" height="90"/>
+</p>
+
+Then insert the monster name
+
+<p align="center">
+	<img src="imgs/command2.png" align="center" width="300" height="90"/>
+</p>
+
+<p align="center">
+	<img src="imgs/command3.png" align="center"/>
+</p>
 
 ### Built With
 
@@ -107,29 +126,21 @@ To get a local copy up and running follow these simple steps.
 
 To use the application:
 
+-	Create the Discord bot with Discord Developer Portal and copy the token
 -   Move to the project folder
 	```sh
 	cd MonsterHunterRise_Assistant
--	Create your configuration file for the Bot
+-	Create your **.env** file
+	This .env file is necessary for the bot's token and ID, inside the file paste
 	```sh
-	touch config.json
-	```
-	This config file is necessary for the bot's token, inside the file paste
-	```sh
-	{
-    	"clientId" : "paste here your bot client id",
-    	"guildId" : "paste here your guild id",
-    	"token" : "paste here your token"
-	}
+	TOKEN=paste_here_your_bot_token
+	BOTID=paste_here_your_bot_id
 	```
 -	Install the following packages with **npm** package manager
 	```sh
+	npm install dotenv
 	npm install discord.js
 	npm install @discordjs/builders @discordjs/rest discord-api-types
-	```
--	Deploy the slash commands with
-	```sh
-	node src/deploy-commands.js
 	```
 -   Run with:
 	```sh
@@ -145,6 +156,11 @@ See the [open issues](https://github.com/Federicoand98/MonsterHunterRise_Assista
 ### Future developments
 
 <!-- CONTRIBUTING -->
+- [] Creating a new json db file for weapon informations
+- [] Creating a new json db file for armor and skills
+- [] Creating a new json db file for quests
+- [] Give the possibility to retrieve weapon, armor and quests information
+- [] New command that calculate the best weapon and element against monster requested
 
 ## Contributing
 

@@ -8,9 +8,6 @@ module.exports = {
         console.log("Joined a new guild: " + guild.name);
         const clientId = process.env.BOTID;
 
-        console.log(clientId);
-        console.log(guild.id);
-
         registerCommands(clientId, guild.id);
     }
 }
