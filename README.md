@@ -1,17 +1,5 @@
 # MonsterHunter Rise Assistant
 
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the NuriCheat and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** Stikinit, kf-eval, twitter_handle, email, project_title, project_description
--->
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -39,9 +27,13 @@
   	</a>
   	<h1 align="center">MonsterHunter Rise Assistant</h1>
   	<p align="center">
-    	ARDice is an augmented reality application that allows you to roll dice. 
+		Description here
     	<br /> 
-    	<br />
+		<a href="https://discord.com/api/oauth2/authorize?client_id=943181210987933786&permissions=534723950656&scope=bot%20applications.commands">
+			Click here to add this Bot to your guild
+		</a>
+		<br />
+		<br />
     	·
     	<a href="https://github.com/Federicoand98/MonsterHunterRise_Assistant/issues">Report Bug</a>
     	·

@@ -1,9 +1,9 @@
-const { Client, Intents, Interaction, Collection } = require('discord.js');
-const { token } = require('../config.json');
+const { Client, Intents, Collection } = require('discord.js');
 const fs = require('fs');
 const client = new Client({intents: [Intents.FLAGS.GUILDS]});
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 const eventFiles = fs.readdirSync('./events').filter(file => file.endsWith('.js'));
+require('dotenv').config({ path: '../.env' });
 
 client.commands = new Collection();
 
@@ -23,7 +23,7 @@ for (const file of eventFiles) {
 var monsters;
 
 client.once('ready', () => {
-    fs.readFile('/Users/federyeeco/Sviluppo/Git/MonsterHunterRise_Assistant/src/db/monsters.json', (err, data) => {
+    fs.readFile('./db/monsters.json', (err, data) => {
         if(err)
             throw err;
     
@@ -49,4 +49,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login(token);
+client.login(process.env.TOKEN);
