@@ -1,9 +1,16 @@
 const { Client, Intents, Collection } = require('discord.js');
 const fs = require('fs');
+const express = require('express');
 const client = new Client({intents: [Intents.FLAGS.GUILDS]});
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 const eventFiles = fs.readdirSync('./events').filter(file => file.endsWith('.js'));
 require('dotenv').config({ path: '../.env' });
+
+const app = express();
+const port = 3000;
+
+app.get('/', (req, res) => res.send('MonsterHunterRiseAssistant'));
+app.listen(port, () => console.log(""));
 
 client.commands = new Collection();
 

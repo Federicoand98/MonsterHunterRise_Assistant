@@ -5,6 +5,7 @@
     "discord-api-types": "^0.27.3",
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0",
-    "embed-table": "^3.0.0"
+    "embed-table": "^3.0.0",
+    "express": "^4.17.3"
   }
 }
